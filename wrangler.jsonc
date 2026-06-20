@@ -5,7 +5,7 @@
   "compatibility_date": "2026-06-20",
   "vars": {
     "CATAPI_BASE_URL": "https://api.thecatapi.com/v1",
-    "ALLOWED_ORIGIN": "https://pawpedia-3pe.pages.dev"
+    "ALLOWED_ORIGIN": "https://pawpediaa.pages.dev"
   },
   "d1_databases": [
     {
