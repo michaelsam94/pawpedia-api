@@ -5,13 +5,13 @@
   "compatibility_date": "2026-06-20",
   "vars": {
     "CATAPI_BASE_URL": "https://api.thecatapi.com/v1",
-    "ALLOWED_ORIGIN": "http://localhost:5173"
+    "ALLOWED_ORIGIN": "https://pawpedia-web.pages.dev"
   },
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "pawpedia-db",
-      "database_id": "replace-with-cloudflare-d1-id"
+      "database_id": "616dc20f-5e7d-4b61-bc3c-63e7b5048474"
     }
   ]
 }
