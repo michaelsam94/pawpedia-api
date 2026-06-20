@@ -1,0 +1,3 @@
+CATAPI_API_KEY=replace-with-thecatapi-key
+CATAPI_BASE_URL=https://api.thecatapi.com/v1
+ALLOWED_ORIGIN=http://localhost:5173

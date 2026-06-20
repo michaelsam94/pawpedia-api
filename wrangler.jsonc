@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pawpedia-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-06-20",
+  "vars": {
+    "CATAPI_BASE_URL": "https://api.thecatapi.com/v1",
+    "ALLOWED_ORIGIN": "http://localhost:5173"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "pawpedia-db",
+      "database_id": "replace-with-cloudflare-d1-id"
+    }
+  ]
+}
